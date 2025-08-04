@@ -1,1 +1,1 @@
-y = int(input())
+    mdkasy = int(input())
