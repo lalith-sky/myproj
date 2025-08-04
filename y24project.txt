@@ -1,1 +1,1 @@
-nflknsklfsioejfespojgewps
+y = int(input())
